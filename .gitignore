@@ -93,7 +93,8 @@ env.bak/
 venv.bak/
 
 .vscode
-
+.vscode/settings.json
+*.vscode/settings.json
 # Spyder project settings
 .spyderproject
 .spyproject
